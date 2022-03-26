@@ -7,3 +7,4 @@ You can find the test in a PDF format with the name Pwa-lighthouse-test
 
 
 
+to be edited later bla bla 
